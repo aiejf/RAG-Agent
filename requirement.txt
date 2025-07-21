@@ -1,0 +1,6 @@
+jupyter
+openai
+minsearch
+requests
+google-generativeai
+google-genai==1.7.0
